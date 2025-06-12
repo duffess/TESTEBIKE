@@ -1,0 +1,43 @@
+[
+  {
+    "Id": 1,
+    "Model": "Mountain Bike Pro",
+    "Brand": "Specialized",
+    "Year": 2023,
+    "IsAvailable": true,
+    "PricePerHour": 15.00
+  },
+  {
+    "Id": 2,
+    "Model": "Urban Commuter",
+    "Brand": "Giant",
+    "Year": 2022,
+    "IsAvailable": true,
+    "PricePerHour": 10.00
+  },
+  {
+    "Id": 3,
+    "Model": "Electric Cruiser",
+    "Brand": "Trek",
+    "Year": 2024,
+    "IsAvailable": false,
+    "PricePerHour": 25.00
+  },
+  {
+    "Id": 4,
+    "Model": "Kids Bike",
+    "Brand": "Caloi",
+    "Year": 2021,
+    "IsAvailable": true,
+    "PricePerHour": 8.00
+  },
+  {
+    "Id": 5,
+    "Model": "Folding Bike",
+    "Brand": "Brompton",
+    "Year": 2023,
+    "IsAvailable": true,
+    "PricePerHour": 12.00
+  }
+]
+

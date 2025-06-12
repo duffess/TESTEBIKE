@@ -1,0 +1,23 @@
+﻿<Window x:Class="BikeRental.Views.RegisterWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Registro" Height="400" Width="350"
+        Background="#1E1E2F" WindowStartupLocation="CenterScreen">
+
+    <Border Margin="20" Background="#2C2F4A" Padding="30" CornerRadius="10">
+        <StackPanel>
+            <TextBlock Text="Registrar" FontSize="24" FontWeight="Bold" Foreground="White" Margin="0,0,0,20" HorizontalAlignment="Center"/>
+
+            <TextBlock Text="Nome" Foreground="White"/>
+            <TextBox x:Name="NomeBox" />
+
+            <TextBlock Text="Email" Foreground="White" Margin="0,10,0,0"/>
+            <TextBox x:Name="EmailBox" />
+
+            <TextBlock Text="Senha" Foreground="White" Margin="0,10,0,0"/>
+            <PasswordBox x:Name="SenhaBox" />
+
+            <Button Content="Registrar" Click="Registrar_Click" Margin="0,20,0,0"/>
+        </StackPanel>
+    </Border>
+</Window>

@@ -1,0 +1,27 @@
+[
+  {
+    "Id": 1,
+    "BikeId": 3,
+    "UserId": 3,
+    "RentalDate": "2024-05-20T10:00:00Z",
+    "ReturnDate": "2024-05-20T14:30:00Z",
+    "TotalCost": 112.50
+  },
+  {
+    "Id": 2,
+    "BikeId": 1,
+    "UserId": 4,
+    "RentalDate": "2024-05-19T09:15:00Z",
+    "ReturnDate": "2024-05-19T11:45:00Z",
+    "TotalCost": 37.50
+  },
+  {
+    "Id": 3,
+    "BikeId": 2,
+    "UserId": 5,
+    "RentalDate": "2024-05-18T14:00:00Z",
+    "ReturnDate": null,
+    "TotalCost": 0.00
+  }
+]
+
