@@ -5,7 +5,7 @@ using BikeRental.Services;
 using System.Windows.Input;
 using System;
 using System.Windows;
-using BikeRentalDashboard.Models;
+using BikeRental.Models;
 using System.Linq;
 
 namespace BikeRental.ViewModels

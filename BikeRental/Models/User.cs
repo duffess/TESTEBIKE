@@ -1,4 +1,4 @@
-﻿namespace BikeRentalDashboard.Models
+﻿namespace BikeRental.Models
 {
     public class User
     {

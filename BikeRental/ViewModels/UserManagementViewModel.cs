@@ -5,8 +5,8 @@ using BikeRental.Models;
 using BikeRental.Services;
 using System.Linq;
 using System;
-using BikeRentalDashboard.Models;
-using BikeRentalDashboard.ViewModels;
+using BikeRental.Models;
+using BikeRental.ViewModels;
 
 namespace BikeRental.ViewModels
 {

@@ -1,8 +1,6 @@
-using System;
 using System.ComponentModel;
 using System.Windows.Input;
 using BikeRental.Models;
-using BikeRentalDashboard.Models;
 
 namespace BikeRental.ViewModels
 {

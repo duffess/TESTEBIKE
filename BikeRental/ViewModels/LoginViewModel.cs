@@ -1,11 +1,7 @@
 using System.Windows.Input;
-using System.ComponentModel;
-using System;
 using BikeRental.Models;
 using BikeRental.Services;
 using System.Windows;
-using BikeRentalDashboard.ViewModels;
-using BikeRentalDashboard.Models;
 
 namespace BikeRental.ViewModels
 {

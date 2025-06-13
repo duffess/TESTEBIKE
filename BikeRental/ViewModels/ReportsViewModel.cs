@@ -5,7 +5,6 @@ using System.Collections.ObjectModel;
 using System.Linq;
 using System;
 using System.Windows.Input;
-using BikeRentalDashboard.Models;
 
 namespace BikeRental.ViewModels
 {

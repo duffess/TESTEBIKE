@@ -1,6 +1,6 @@
 ﻿using System.ComponentModel;
 
-namespace BikeRentalDashboard.ViewModels
+namespace BikeRental.ViewModels
 {
     public class BaseViewModel : INotifyPropertyChanged
     {
